@@ -3,3 +3,8 @@ Organized by Date of Completion:
 1. **Algorithmic Strategies** - Focus on Sorting Algorithms and Recursion vs Iteration
 2. **Task Scheduler** - Focus on OOP, Heaps and Priority Queues
 3. **Gene Decoding** - Focus on Greedy vs Dynamic Programming Strategies
+
+Each project contains:
+- Instructions PDF
+- Main Report PDF
+- Jupyter Notebook with Python Code
